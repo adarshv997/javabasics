@@ -7,4 +7,5 @@
 6.method.java
 7.methodoverloading.java
 8.recursion.java
-9.whileloop.java
+9.switch
+10.whileloop.java
