@@ -1,7 +1,7 @@
 # javabasics
-1. animal.java-Inheritance
+1. animal.java(overriding)
 2. array.java- array
-3.calculation.java
+3.calculation.java(inheritance)
 4.forloop.java
 5.ifloop.java
 6.method.java
