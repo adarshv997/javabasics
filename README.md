@@ -1,11 +1,11 @@
 # javabasics
-1. animal.java(overriding)
-2. array.java- array
-3.calculation.java(inheritance)
-4.forloop.java
-5.ifloop.java
-6.method.java
-7.methodoverloading.java
+1. array.java- array
+2.calculation.java(inheritance)
+3.forloop.java
+4.ifloop.java
+5.method.java
+6.methodoverloading.java
+7.overriding.jav
 8.recursion.java
 9.switch
 10.whileloop.java
